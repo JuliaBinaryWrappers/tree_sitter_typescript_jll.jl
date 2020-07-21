@@ -1,0 +1,113 @@
+[[tree_sitter_typescript]]
+arch = "aarch64"
+git-tree-sha1 = "48510b2e6cb1bfe97e6c1f0c295a51da9dfd2a27"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_typescript.download]]
+    sha256 = "8d2b9ddb216e888c1b041debe70da08682f6574a5510fd441d215cd70a5a748f"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_typescript_jll.jl/releases/download/tree_sitter_typescript-v0.16.2+0/tree_sitter_typescript.v0.16.2.aarch64-linux-gnu.tar.gz"
+[[tree_sitter_typescript]]
+arch = "aarch64"
+git-tree-sha1 = "7d75eafc22de4791ae4dab2eba909aa66f0dcbc2"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_typescript.download]]
+    sha256 = "d9e3f1a54fdc0a11b3cf65309a3866aa9afddb9970b57a5b45019d1540f48554"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_typescript_jll.jl/releases/download/tree_sitter_typescript-v0.16.2+0/tree_sitter_typescript.v0.16.2.aarch64-linux-musl.tar.gz"
+[[tree_sitter_typescript]]
+arch = "armv7l"
+git-tree-sha1 = "fee6fb12163a591ae801747512d8327863f49e73"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_typescript.download]]
+    sha256 = "26bfd256daf98862707bc12bac046726cac65c3c1c8b1c4a847f111e8a51059a"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_typescript_jll.jl/releases/download/tree_sitter_typescript-v0.16.2+0/tree_sitter_typescript.v0.16.2.armv7l-linux-gnueabihf.tar.gz"
+[[tree_sitter_typescript]]
+arch = "armv7l"
+git-tree-sha1 = "ef5e83de5d6319f5465fe88809dc423996630eee"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_typescript.download]]
+    sha256 = "a2e3855c07c0e4b25c2fe36bed7d2f1ea21a9437b80d2942ec65fe7306f22ba1"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_typescript_jll.jl/releases/download/tree_sitter_typescript-v0.16.2+0/tree_sitter_typescript.v0.16.2.armv7l-linux-musleabihf.tar.gz"
+[[tree_sitter_typescript]]
+arch = "i686"
+git-tree-sha1 = "fad8c782dd8d69971bc296d126479d9ba3f402f6"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_typescript.download]]
+    sha256 = "814c73456fc8a6a68693aedcffda4c08a4a919497b94faa2048da2fe4b11fb9f"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_typescript_jll.jl/releases/download/tree_sitter_typescript-v0.16.2+0/tree_sitter_typescript.v0.16.2.i686-linux-gnu.tar.gz"
+[[tree_sitter_typescript]]
+arch = "i686"
+git-tree-sha1 = "c5c5e2d1540b3b0d416efdae4ac5498402b357e7"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_typescript.download]]
+    sha256 = "b2f804e3f438e627aa4ee1ff4d5a752f38022a035028ce97a3c8ba1ad62c2add"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_typescript_jll.jl/releases/download/tree_sitter_typescript-v0.16.2+0/tree_sitter_typescript.v0.16.2.i686-linux-musl.tar.gz"
+[[tree_sitter_typescript]]
+arch = "i686"
+git-tree-sha1 = "435761d3945c4231c94d905d336a643c6964960e"
+os = "windows"
+
+    [[tree_sitter_typescript.download]]
+    sha256 = "cd7ab80bf5359cd36818d9dca24173efa3819a4411eaecaeaeaf4ee48c7b5816"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_typescript_jll.jl/releases/download/tree_sitter_typescript-v0.16.2+0/tree_sitter_typescript.v0.16.2.i686-w64-mingw32.tar.gz"
+[[tree_sitter_typescript]]
+arch = "powerpc64le"
+git-tree-sha1 = "fbdb96f087ef2b424f45c74511a0c3ecba447fe3"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_typescript.download]]
+    sha256 = "d117bcf59f0b20e72bfd1c8c65ee0db920e625f9d5657cc99ed995ebbf3740cd"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_typescript_jll.jl/releases/download/tree_sitter_typescript-v0.16.2+0/tree_sitter_typescript.v0.16.2.powerpc64le-linux-gnu.tar.gz"
+[[tree_sitter_typescript]]
+arch = "x86_64"
+git-tree-sha1 = "7e289b07b1442a3cfc229ead8a80056e7804f9fa"
+os = "macos"
+
+    [[tree_sitter_typescript.download]]
+    sha256 = "8ed421365b64d9b902e3dc26244045c654d2873b07befb6248292b8274877db4"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_typescript_jll.jl/releases/download/tree_sitter_typescript-v0.16.2+0/tree_sitter_typescript.v0.16.2.x86_64-apple-darwin14.tar.gz"
+[[tree_sitter_typescript]]
+arch = "x86_64"
+git-tree-sha1 = "f51affe9ecb52d1d1161dad7e0536bdbd048bf7c"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_typescript.download]]
+    sha256 = "a88657b465c5dc474d982ffee1c181a7cbbc242e9e4fa60b10ff88f01d55fa3f"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_typescript_jll.jl/releases/download/tree_sitter_typescript-v0.16.2+0/tree_sitter_typescript.v0.16.2.x86_64-linux-gnu.tar.gz"
+[[tree_sitter_typescript]]
+arch = "x86_64"
+git-tree-sha1 = "e5e6129d91f82484d052594fb7f875ec63bc4034"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_typescript.download]]
+    sha256 = "ce654b5c87da86d64863c1813ba07ef563adf61bc78c52ca9901b2c89c402e4e"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_typescript_jll.jl/releases/download/tree_sitter_typescript-v0.16.2+0/tree_sitter_typescript.v0.16.2.x86_64-linux-musl.tar.gz"
+[[tree_sitter_typescript]]
+arch = "x86_64"
+git-tree-sha1 = "6e8e83ae773d8040d5e847e0847cbc7e031b5b8c"
+os = "freebsd"
+
+    [[tree_sitter_typescript.download]]
+    sha256 = "6146a6b194c94908a2ab83a4b4a34552ad5cc7bd79b36eebd254499ec31c1b2e"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_typescript_jll.jl/releases/download/tree_sitter_typescript-v0.16.2+0/tree_sitter_typescript.v0.16.2.x86_64-unknown-freebsd11.1.tar.gz"
+[[tree_sitter_typescript]]
+arch = "x86_64"
+git-tree-sha1 = "819519806644be300be95087de2bcfafc5770a4b"
+os = "windows"
+
+    [[tree_sitter_typescript.download]]
+    sha256 = "74a1127d971f7d062379fd098e27f65271040f084d07555ebf4c9dc348b55850"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_typescript_jll.jl/releases/download/tree_sitter_typescript-v0.16.2+0/tree_sitter_typescript.v0.16.2.x86_64-w64-mingw32.tar.gz"
